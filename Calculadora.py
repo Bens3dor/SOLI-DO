@@ -1,3 +1,5 @@
+# Calculadora implementada con las funcionalidades requeridas
+
 import tkinter as tk
 
 class Calculadora:
