@@ -1,8 +1,7 @@
 # SOLI-DO
-"Elegimos 'Calculator'(Calculadora) porque resuelve la necesidad de contar con una herramienta accesible en línea para realizar cálculos matemáticos cotidianos (suma, resta, multiplicación y división) de forma inmediata."
- 
+
 ## Descripción
-"Elegimos 'Calculator' porque resuelve la necesidad de contar con una herramienta accesible en línea para realizar cálculos matemáticos cotidianos (suma, resta, multiplicación y división) de forma inmediata."
+"Elegimos 'Calculator'(Calculadora) porque resuelve la necesidad de contar con una herramienta accesible en línea para realizar cálculos matemáticos cotidianos (suma, resta, multiplicación y división) de forma inmediata."
  
 ## User Stories
 - Como usuario, quiero ver una pantalla que muestre los números ingresados y los resultados de las operaciones.
