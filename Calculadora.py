@@ -327,7 +327,8 @@ class Calculadora:
             self.operation = None
             self.waiting_for_operand = True
             self.last_action = 'operation'
-    
+
+    # Busca la función calculate y asegúrate de que no use eval()
     def calculate(self, num1, num2, operation):
         try:
             if operation == '+':
