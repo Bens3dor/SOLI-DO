@@ -363,7 +363,8 @@ class Calculadora:
         except:
             self.set_display_value('ERR')
             return None
-    
+
+    # Busca las funciones handle_clear y clear_all
     def handle_clear(self):
         if self.last_action == 'operation' and self.operation is not None:
             # Restaurar al valor anterior
