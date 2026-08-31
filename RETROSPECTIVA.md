@@ -1,4 +1,4 @@
-1. 1. ¿Qué funcionó bien?
+1. ¿Qué funcionó bien?
 Compromiso y colaboración del equipo:Todos los integrantes trabajaron de manera responsable y cumplieron con las tareas y roles asignados.
 Uso de GitHub como herramienta CASE: La organización de las tareas mediante Issues y el tablero Kanban nos permitió tener claridad sobre qué debía hacer cada quién y dar seguimiento al avance.
 División del trabajo:Hubo buena disposición para dividirse equitativamente las actividades (redacción del README, creación de Issues, modelado y código).
